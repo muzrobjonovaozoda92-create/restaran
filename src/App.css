@@ -1,0 +1,15 @@
+.box45{
+    background-color: #292E36;
+    height: 60px;
+    position: fixed;
+    padding: 1rem 0;
+    width: 100%;
+    box-sizing: border-box !important;
+    
+}
+.box45 a{
+    margin: 2rem;
+    text-decoration: none;
+    color: white;
+    margin-top: 3rem;
+}
